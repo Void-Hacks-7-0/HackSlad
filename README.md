@@ -1,2 +1,0 @@
-# HackSlad
-Alzeimer's Prediction
